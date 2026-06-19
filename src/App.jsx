@@ -108,14 +108,14 @@ function App() {
             <div className="cta-group">
               <a
                 className="download-btn"
-                href="#"
-                target="_blank"
+                href="https://github.com/YA7YA-HABIB/Smart-Alarm/releases/download/V1.0.0/Smart.alarm.apk"
+                target="_self"
                 rel="noreferrer">
                 {current.download}
               </a>
               <a
                 className="whatsapp-btn"
-                href="https://wa.me/"
+                href="https://wa.me/+963939730486"
                 target="_blank"
                 rel="noreferrer">
                 {current.contact}
