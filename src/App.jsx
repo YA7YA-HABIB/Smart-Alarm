@@ -31,9 +31,9 @@ const content = {
     ],
     plansTitle: "الباقات المتاحة",
     plans: [
-      { name: "الباقة الأساسية", time: "لمدة شهر واحد", price: "1.99$" },
-      { name: "الباقة المميزة", time: "لمدة عام واحد", price: "19.99$" },
-      { name: "الباقة الاحترافية", time: "باقة مدى الحياة", price: "149.99$" },
+      { name: "الباقة الأساسية", time: "لمدة شهر واحد", price: "2.49$" },
+      { name: "الباقة المميزة", time: "لمدة عام واحد", price: "25.99$" },
+      { name: "الباقة الاحترافية", time: "باقة مدى الحياة", price: "199.99$" },
     ],
   },
   en: {
@@ -65,9 +65,9 @@ const content = {
     ],
     plansTitle: "Available plans",
     plans: [
-      { name: "Basic Plan", time: "For One Month", price: "1.99$" },
-      { name: "Premium Plan", time: "For One Yeare", price: "19.99$" },
-      { name: "Professional Plan", time: "Life Time Plane", price: "149.99$" },
+      { name: "Basic Plan", time: "For One Month", price: "2.49$" },
+      { name: "Premium Plan", time: "For One Yeare", price: "25.99$" },
+      { name: "Professional Plan", time: "Life Time Plane", price: "199.99$" },
     ],
   },
 };
