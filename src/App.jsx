@@ -108,7 +108,7 @@ function App() {
             <div className="cta-group">
               <a
                 className="download-btn"
-                href="https://github.com/YA7YA-HABIB/Smart-Alarm/releases/download/V1.0.0/smart.alarm.2.apk"
+                href="https://github.com/YA7YA-HABIB/Smart-Alarm/releases/download/V1.0.0/smart.alarm.3.apk"
                 target="_self"
                 rel="noreferrer">
                 {current.download}
